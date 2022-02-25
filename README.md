@@ -7,9 +7,11 @@ Python training class certification project
    Description:
    Game to guess a system selected random number
    
-   You will be prompted to enter an number from 1 to 10
+   You will be prompted to enter an number from 1 to 10.
    Try to guess the randomally selected number
 
 Required libraries:
     import crayons
     from random import randint
+
+Built with Python3
